@@ -1,8 +1,6 @@
-#abacate{
-    float:right
-}
+
 #legal{
-    font-size: 10px;
+    font-size: 15px;
 }
 #container img {
     float:left
@@ -10,4 +8,7 @@
 #a{
     text-decoration: underline;
 
+}
+#tentativa img {
+    float:right
 }
